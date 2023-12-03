@@ -1,0 +1,43 @@
+*{
+    box-sizing: border-box;
+}
+body{
+    margin: 0;
+    padding: 0;
+}
+.box1{
+    width: 233px;
+    height: 192px;
+    background: #FC0000;
+    position: absolute;
+    z-index: 4;
+    margin-top: 11px;
+    margin-left: 12px;
+}
+.box2{
+    width: 233px;
+    height: 192px;
+    background: #05FC00;
+    position: absolute;
+    z-index: 3;
+    margin-top: 107px;
+    margin-left: 128px;
+}
+.box3{
+    width: 233px;
+    height: 192px;
+    background: #000AFC;
+    position: absolute;
+    z-index: 1;
+    margin-top: 203px;
+    margin-left: 244px;
+}
+.box4{
+    width: 233px;
+    height: 192px;
+    background: #F7FC00;
+    position: absolute;
+    z-index: 2;
+    margin-top: 253px;
+    margin-left: 314px;
+}
